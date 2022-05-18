@@ -1,12 +1,12 @@
 body{
-    background-color: pink;
+    background-color: orange;
     background-attachment: fixed;
     background-size: 100% 100%;
     
     
 }
 h1{
-    background-color: pink;
+    background-color: orange;
     text-align: center;
     color: white;
     border-style: groove;
@@ -24,13 +24,13 @@ div{
     width: auto;
 }
 footer{
-    background-color: orange;
+    background-color: yellow;
     text-align: center;
     width: auto;
     border: 50px;
-    border-style:double;
-    border-color: lightyellow;
+    border-color: yellow;
     padding: 10px;
+	height: 80px;
     
 }
 aside{
@@ -43,36 +43,35 @@ aside{
     clear: both; 
 }
 #caja1{
-    background-color: pink;
+    background-color: yellow;
     width: auto;
     border:dashed;
     float:none;
 }	
 #caja2{
-    background-color: lightyellow;
-    color: white;
-    float:left;
-    width: 730px;
-    height: 780px;
+    background-color: chocolate;
+    color: black;
+    float: right;
+    width: 1400px;
+    height: 450px;
     border-color: purple;
     border-style:groove;
-    opacity: 0.5;
 }
 #caja3{
-    background-color: lightyellow;
-    float:right;
-    width: 730px;
-    height: 780px;
+    background-color: chocolate;
+    float: left;
+    width: 400px;
+    height: 450px;
     border-color: purple;
     border-style:groove;
-    color: lightyellow;
+    color: black;
     font-size: 30px;
-    opacity: 0.5;
+    opacity: 0.6;
 }
 #caja4{
     background-color: gold;
     float:left;
-    width: 1325px;
+    width: 1898px;
     border-color: purple;
     border-style: groove;
     opacity: 0.6;
@@ -97,7 +96,7 @@ button{
 
 .menu li a{
 	text-decoration: none;
-	color: white;
+	color: black;
 	padding: 20px;
 	display: block;
 }
