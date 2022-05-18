@@ -1,13 +1,12 @@
 body{
     background-color: pink;
-    background-image: url("moradovino.jpg");
     background-attachment: fixed;
     background-size: 100% 100%;
     
     
 }
 h1{
-    background-image: url("fondonegro.jpg");
+    background-color: pink;
     text-align: center;
     color: white;
     border-style: groove;
@@ -48,8 +47,7 @@ aside{
     width: auto;
     border:dashed;
     float:none;
-    background-image: url("fondonegro.jpg");
-}
+}	
 #caja2{
     background-color: lightyellow;
     color: white;
@@ -59,8 +57,6 @@ aside{
     border-color: purple;
     border-style:groove;
     opacity: 0.5;
-    background-image: url("caja2.gif");
-    background-size: 100% 100%;
 }
 #caja3{
     background-color: lightyellow;
@@ -69,12 +65,9 @@ aside{
     height: 780px;
     border-color: purple;
     border-style:groove;
-    background-image: url("kty.gif");
     color: lightyellow;
     font-size: 30px;
     opacity: 0.5;
-    background-image: url("vapor12.gif");
-    background-size: 100% 100%;
 }
 #caja4{
     background-color: gold;
@@ -83,8 +76,6 @@ aside{
     border-color: purple;
     border-style: groove;
     opacity: 0.6;
-    background-image: url("caja4.gif");
-    background-size: 100% 100%;
 }
 button{
   background-color: pink;
