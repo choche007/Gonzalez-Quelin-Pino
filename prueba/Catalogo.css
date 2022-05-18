@@ -59,7 +59,7 @@ aside{
     color: lightgreen;
     background-image: url("http://4.bp.blogspot.com/-Syh05vwiDt4/Uc4yVnzerWI/AAAAAAAADlU/KXuigEpcG0M/s1600/Vega.JPG");
     background-size: 100% 100%;
-    opacity: 0.8;
+
 }
 #caja5{
     background-color: orange;
@@ -71,7 +71,7 @@ aside{
     color: ;
     background-image: url("https://www.latercera.com/resizer/8ZNgODGk41on0yrbnQCaomk-74o=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/5SX5XEZZRFEGLFYBYAGKVZXN54.jpg");
     background-size: 100% 100%;
-    opacity: 0.8;
+
 }
 #caja6{
     background-color: orange;
@@ -83,11 +83,11 @@ aside{
     color: lightgreen;
     background-image: url("https://live.staticflickr.com/1320/1206409355_76cc0b0840_b.jpg");
     background-size: 100% 100%;
-    opacity: 0.8;
+
 }
 #caja3{
     background-color: chocolate;
-    opacity: 0.6;
+    opacity: 0.8;
     float:left;
     width: 500px;
     height: 800px;
