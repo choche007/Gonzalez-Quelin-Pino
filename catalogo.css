@@ -1,0 +1,120 @@
+body{
+    background-image:url("https://assets.website-files.com/57673fe54f2ba9aa27820786/578d14b77b80d9142baf23ff_10-PRANNA-VINO.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+      
+}
+h1{
+    background-image: url("vaporwave.gif");
+    text-align: center;
+    color: White;
+    border-style: groove;
+    border-color: purple;
+    margin:auto;
+    background-image: url("https://i.pinimg.com/originals/5d/35/88/5d35884846c43d54845f460b4bc3c21c.jpg");    
+}
+nav{
+        background-color: pink;
+        text-align: center;
+        border-style: groove;
+        border-color: purple;
+        width: auto;
+        background-image: url("https://i.pinimg.com/originals/5d/35/88/5d35884846c43d54845f460b4bc3c21c.jpg");
+}
+div{
+    width: auto;
+}
+footer{
+    background-color: pink;
+    text-align: center;
+    width: auto;
+    border: 50px;
+    border-style:double;
+    border-color: black;
+    padding: 10px;
+}
+aside{
+    height: auto;
+   
+    
+    
+}
+.clearfix{
+    clear: both; 
+}
+#caja1{
+    
+    background-color: pink;
+    float:none;
+    width: auto;
+    border:dashed;
+    float:none;
+    background-image: url("https://i.pinimg.com/originals/5d/35/88/5d35884846c43d54845f460b4bc3c21c.jpg");
+}
+#caja2{
+    background-color: pink;
+    float:left;
+    width: 500px;
+    height: 500px;
+    border-color: black;
+    border-style:groove;
+    color: White;
+    background-image: url("https://i.pinimg.com/originals/b6/54/4d/b6544dc2ca2101c8069c7a894df45df9.gif");
+    background-size: 100% 100%;
+    opacity: 0.8;
+}
+#caja3{
+    background-color: pink;
+    float:right;
+    width: 600px;
+    height: 700px;
+    border-color: purple;
+    border-style:groove;
+    background-image: url("https://i.pinimg.com/originals/44/5e/3b/445e3bdfcdd5ada3111a028081a49b76.gif");
+    background-size: 100% 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: White;
+    font-size: 30px;
+    opacity: 0.8;
+}
+#caja4{
+    background-color: pink;
+    float:left;
+    width: 1895px;
+    border-color: black;
+    border-style:groove;
+}
+button {
+  background-color: lightyellow;
+  border:double;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration:blink;
+  display: inline-block;
+  font-size: 13px;
+}
+.menu{
+	list-style: none;
+	padding: 0;
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+}
+
+.menu li a{
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	display: block;
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+
+.menu li a:hover{
+	background-color: purple;
+}
