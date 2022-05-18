@@ -1,0 +1,48 @@
+   
+    
+}
+nav{
+        background-image: url("header3.jpg");
+        text-align: center;
+        border-style: solid;
+        border-color: purple;
+        width: auto;
+	
+}
+div{
+    width: auto;
+}
+footer{
+    background-color: orange;
+    text-align: center;
+    width: auto;
+    border: 50px;
+    border-style:double;
+    border-color: lightyellow;
+    padding: 10px;
+    
+}
+aside{
+    height: auto;
+   
+    
+    
+}
+.clearfix{
+    clear: both; 
+}
+#caja1{
+    background-color: purple;
+    width: auto;
+    border:solid;
+    
+    float:none;
+    
+    background-image: url("fondonegro.jpg");
+}
+#caja2{
+    background-color: #6F4E37;
+    float:left;
+    color: white;
+    width: 420px;
+    height: 700px;
