@@ -1,32 +1,29 @@
 body{
-    background-image:url("https://assets.website-files.com/57673fe54f2ba9aa27820786/578d14b77b80d9142baf23ff_10-PRANNA-VINO.jpg");
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
+    background-color: orange;
     background-attachment: fixed;
-      
+    background-image: url("http://www.tvn.cl/incoming/arturojpg-2145956/ALTERNATES/w1024h768/arturo.jpg"); 
+    background-size: 100% 100%;
 }
 h1{
-    background-image: url("vaporwave.gif");
     text-align: center;
-    color: White;
+    color: black;
     border-style: groove;
-    border-color: purple;
-    margin:auto;
-    background-image: url("https://i.pinimg.com/originals/5d/35/88/5d35884846c43d54845f460b4bc3c21c.jpg");    
-}
+    border-color: black;
+    background-color: orange;
+}   
 nav{
-        background-color: pink;
+        background-color: yellow;
         text-align: center;
+        color: black;
         border-style: groove;
-        border-color: purple;
+        border-color: black;
         width: auto;
-        background-image: url("https://i.pinimg.com/originals/5d/35/88/5d35884846c43d54845f460b4bc3c21c.jpg");
 }
 div{
     width: auto;
 }
 footer{
-    background-color: pink;
+    background-color: yellow;
     text-align: center;
     width: auto;
     border: 50px;
@@ -45,48 +42,70 @@ aside{
 }
 #caja1{
     
-    background-color: pink;
+    background-color: orange;
     float:none;
     width: auto;
     border:dashed;
     float:none;
-    background-image: url("https://i.pinimg.com/originals/5d/35/88/5d35884846c43d54845f460b4bc3c21c.jpg");
+    background-image: url("https://media-cdn.tripadvisor.com/media/photo-s/0a/c5/a7/ef/beautiful-produce.jpg");
 }
 #caja2{
-    background-color: pink;
-    float:left;
-    width: 500px;
-    height: 500px;
+    background-color: orange;
+    float:right;
+    width: 400px;
+    height: 400px;
     border-color: black;
     border-style:groove;
-    color: White;
-    background-image: url("https://i.pinimg.com/originals/b6/54/4d/b6544dc2ca2101c8069c7a894df45df9.gif");
+    color: lightgreen;
+    background-image: url("http://4.bp.blogspot.com/-Syh05vwiDt4/Uc4yVnzerWI/AAAAAAAADlU/KXuigEpcG0M/s1600/Vega.JPG");
     background-size: 100% 100%;
-    opacity: 0.8;
+
+}
+#caja5{
+    background-color: orange;
+    float:right;
+    width: 400px;
+    height: 400px;
+    border-color: black;
+    border-style:groove;
+    color: ;
+    background-image: url("https://www.latercera.com/resizer/8ZNgODGk41on0yrbnQCaomk-74o=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/5SX5XEZZRFEGLFYBYAGKVZXN54.jpg");
+    background-size: 100% 100%;
+
+}
+#caja6{
+    background-color: orange;
+    float:right;
+    width: 400px;
+    height: 400px;
+    border-color: black;
+    border-style:groove;
+    color: lightgreen;
+    background-image: url("https://live.staticflickr.com/1320/1206409355_76cc0b0840_b.jpg");
+    background-size: 100% 100%;
+
 }
 #caja3{
-    background-color: pink;
-    float:right;
-    width: 600px;
-    height: 700px;
-    border-color: purple;
-    border-style:groove;
-    background-image: url("https://i.pinimg.com/originals/44/5e/3b/445e3bdfcdd5ada3111a028081a49b76.gif");
-    background-size: 100% 100%;
-    font-family: Arial, Helvetica, sans-serif;
-    color: White;
-    font-size: 30px;
+    background-color: chocolate;
     opacity: 0.8;
+    float:left;
+    width: 500px;
+    height: 800px;
+    border-color: black;
+    border-style:groove;
+    background-size: 100% 100%;
+    color: Black;
+    font-size: 30px;
 }
 #caja4{
-    background-color: pink;
-    float:left;
+    background-color: yellow;
+    float:right;
     width: 1895px;
     border-color: black;
     border-style:groove;
 }
-button {
-  background-color: lightyellow;
+button{
+  background-color: yellow;
   border:double;
   color: black;
   padding: 15px 32px;
@@ -105,7 +124,7 @@ button {
 
 .menu li a{
 	text-decoration: none;
-	color: white;
+	color: black;
 	padding: 20px;
 	display: block;
 }
@@ -116,5 +135,5 @@ button {
 }
 
 .menu li a:hover{
-	background-color: purple;
+	background-color: orange;
 }
