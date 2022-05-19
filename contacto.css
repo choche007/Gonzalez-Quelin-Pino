@@ -1,7 +1,36 @@
+body{
+    background-color: orange;
+    background-image: url("moradovino.jpg");
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    
+    
+}
+h1{
+    
+    text-align: center;
+    color: white;
+    border-style: solid;
+    border-color: yellow;
+    margin:auto;
+   
+    
+}
+
+h2{
+    
+    text-align: center;
+    
+    border-style: solid;
+    border-color: yellow;
+    margin:auto;
+   
+    
+}
+
 nav{
         background-image: url("header3.jpg");
         text-align: center;
-       
         border-color: yellow;
         width: auto;
 	
@@ -41,3 +70,37 @@ aside{
     color: white;
     width: 420px;
     height: 700px;
+
+button {
+  
+  border:double;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration:blink;
+  display: inline-block;
+  font-size: 16px;
+}
+.menu{
+	list-style: none;
+	padding: 0;
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+}
+
+.menu li a{
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	display: block;
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+
+.menu li a:hover{
+	background-color: purple;
+}
